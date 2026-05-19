@@ -1,0 +1,22 @@
+{
+    "name": "noumanqamar/sms2connect-php",
+    "description": "A modern, dependency-free PHP 8.3+ SDK wrapper for the SMS2Connect API Gateway.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nouman Qamar",
+            "email": "noumanqamar450@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.3",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "NoumanQamar\\SMS2Connect\\": "src/"
+        }
+    }
+}
