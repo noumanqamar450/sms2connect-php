@@ -36,7 +36,7 @@ Ensure your environment includes:
 Install the package using Composer.
 
 ```bash
-composer require yourusername/sms2connect-php
+composer require noumanqamar/sms2connect-php
 ```
 
 ---
